@@ -1,1 +1,2 @@
-# object-detection
+# My Object Detection App using Next.js
+
