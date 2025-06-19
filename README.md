@@ -1,4 +1,4 @@
-# Detectify- Object Detection with TensorFlow.js
+# 🕵️‍♀️ Detectify - Object Detection with TensorFlow.js
 
 A real-time object detection web app built with **Next.js** and **TensorFlow.js** that uses your webcam to identify objects. When a **person** is detected, the app highlights them in **red**, plays a **beep alarm**, and displays all other objects in **blue**.
 
